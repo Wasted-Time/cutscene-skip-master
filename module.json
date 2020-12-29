@@ -1,0 +1,11 @@
+{
+    "name": "Cutscene-Skip",
+    "options": {
+        "niceName": "Skip Animation",
+        "guiName": "Skip Animation(Cutscene-Skip)"
+    },
+    "author": "ZC / meishuu / Tera-Waste",
+    "description": "Automatically skip CG animation(Press free ESC)",
+    "supportUrl": "https://github.com/Wasted-Times",
+    "version": "101.2"
+}
